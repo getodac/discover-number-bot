@@ -1,11 +1,11 @@
 # Telegram Bot Game "Guess the number"
 
 ## Usage
-/help - display help
-/start - start new game
-/giveup - give up and show the number
-/stat - display statistics
-/dddd - try to guess the 4 digit number
+ - **/help** - display help 
+ - **/start** - start new game
+ - **/giveup** - give up and show the number
+ - **/stat** - display statistics
+ - **/dddd** - try to guess the 4 digit number
 
 
 # Getting Started
